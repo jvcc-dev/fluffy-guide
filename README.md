@@ -4,3 +4,5 @@ repo teste
 =======
 # teste-de-repo-no-githun
 >>>>>>> 055e7b2 (Salvar minhas alterações locais)
+>>>>>>>
+>>>>>>> teste de midificação 
